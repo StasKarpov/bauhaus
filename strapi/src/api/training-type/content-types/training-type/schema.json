@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "training_types",
+  "info": {
+    "singularName": "training-type",
+    "pluralName": "training-types",
+    "displayName": "Training type",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    }
+  }
+}

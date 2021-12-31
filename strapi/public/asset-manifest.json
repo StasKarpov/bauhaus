@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2ca7c79d.css",
+    "main.js": "/static/js/main.a2f1b611.js",
+    "static/js/787.4647fa21.chunk.js": "/static/js/787.4647fa21.chunk.js",
+    "static/media/confidential.png": "/static/media/confidential.4824616860b8a1c43150.png",
+    "static/media/map.png": "/static/media/map.8cb7e44701708b66b082.png",
+    "static/media/OPTIFuturaDemiBold.otf": "/static/media/OPTIFuturaDemiBold.b8c06cce8a7c2a69d500.otf",
+    "static/media/instagram.svg": "/static/media/instagram.ed077f2430c6e0408e50f11eacccc8c7.svg",
+    "static/media/telegram.svg": "/static/media/telegram.82a5cacda4509900e519313c4af68088.svg",
+    "static/media/call.svg": "/static/media/call.a62f3bb5d0e2a080c4039de31d0d1be9.svg",
+    "index.html": "/index.html",
+    "main.2ca7c79d.css.map": "/static/css/main.2ca7c79d.css.map",
+    "main.a2f1b611.js.map": "/static/js/main.a2f1b611.js.map",
+    "787.4647fa21.chunk.js.map": "/static/js/787.4647fa21.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ca7c79d.css",
+    "static/js/main.a2f1b611.js"
+  ]
+}
