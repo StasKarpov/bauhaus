@@ -12,7 +12,7 @@ import { Query as QueryType, PriceTypeEntity, PriceEntity } from "../types";
 import FadeIn from "react-fade-in";
 
 enum TextPosition {
-  BottomVertical = "bottom-0 rotate-180 writing-mode-tb-rl",
+  BottomVertical = "left-[8.5rem] bottom-0 origin-bottom-left rotate-[-90deg]",
   Top = "top-0",
   Bottom = "bottom-0",
 }

@@ -29,7 +29,7 @@ function App() {
           <>
             <Router>
               <Header />
-              <div className="container overflow-auto mx-auto h-[calc(100vh-14rem)] mt-4 lg:mt-0">
+              <div className="container mx-auto min-h-[calc(100vh-25rem)] lg:min-h-[calc(100vh-14rem)] mt-28">
                 <Routes>
                   <Route path="/">
                     <Route index element={<Home />} />

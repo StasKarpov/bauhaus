@@ -11,16 +11,12 @@ export default () => {
   const { t } = useLang();
 
   return (
-    <div className="h-28 w-full fixed bottom-0 bg-white">
+    <div className="h-28 w-full bg-white mb-10 lg:my-0">
       <div className="container mx-auto flex justify-between h-full items-center">
         <div className="flex cursor-pointer">
-          <img className="m-3" style={{ width: "1.8rem" }} src={telegramIcon} />
-          <img
-            className="m-3"
-            style={{ width: "1.8rem" }}
-            src={instagramIcon}
-          />
-          <img className="m-3" style={{ width: "1.8rem" }} src={callIcon} />
+          <img className="m-3" style={{ width: "2rem" }} src={telegramIcon} />
+          <img className="m-3" style={{ width: "2rem" }} src={instagramIcon} />
+          <img className="m-3" style={{ width: "2rem" }} src={callIcon} />
         </div>
         <MenuItemLink
           className="hidden lg:block"

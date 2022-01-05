@@ -7,7 +7,7 @@ const Query = ({ children, query, variables }: any) => {
   const { data, loading, error } = useQuery(query, { variables });
   if (loading)
     return (
-      <div className="w-full flex justify-center">
+      <div className="w-full flex justify-center my-20">
         <Loader type="Oval" color="#000" height={100} width={100} />
       </div>
     );
